@@ -1,3 +1,10 @@
-div {
-    background-color: pink;
+#single {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+#double {
+    background-color: rgb(0, 255, 100);
+    font-size: 24px;
+    font-weight: bold;
 }
